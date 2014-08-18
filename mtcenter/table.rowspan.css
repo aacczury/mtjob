@@ -1,0 +1,35 @@
+	.table {
+		font-size:12px;
+		border-collapse:collapse;
+		border-radius: 3px;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+	}
+	.table th{
+		background-color: #16a085;
+		font-weight: normal;
+		color: white;
+		padding: 10px 10px;
+		text-align: center;
+	}
+	.table td{
+		padding: 10px 10px;
+	}
+	.table tr{
+		background-color: rgb(245, 250, 245);
+		color: rgb(111, 111, 111);
+		-webkit-transition: background 0.3s;
+		-moz-transition: background 0.3s;
+		transition: background 0.3s;
+	}
+	.table tr:nth-of-type(2n-1){
+		background-color: rgb(238, 238, 238);
+		color: rgb(111, 111, 111);
+		-webkit-transition: background 0.3s;
+		-moz-transition: background 0.3s;
+		transition: background 0.3s;
+	}
+	
+	.notice{
+		color:#e74c3c;
+	}

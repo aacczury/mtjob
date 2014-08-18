@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+			
+	title="Alumni reunion 2014.Activity and pictures."
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	thumbPosition="LEFT"
+	galleryStyle="CLASSIC"
+	thumbColumns="3"
+	thumbRows="4"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"
+	frameWidth="20"
+	maxImageWidth="640"
+	maxImageHeight="640"
+	imagePath="images/"
+	thumbPath="thumbs/"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="AUTO"
+	languageList=""	
+	
+>
+
+
+
+<image imageURL="../2112/01.jpg" thumbURL="../2112/resize_01.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/02.jpg" thumbURL="../2112/resize_02.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/03.jpg" thumbURL="../2112/resize_03.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/04.jpg" thumbURL="../2112/resize_04.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/05.jpg" thumbURL="../2112/resize_05.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/06.jpg" thumbURL="../2112/resize_06.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/07.jpg" thumbURL="../2112/resize_07.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/08.jpg" thumbURL="../2112/resize_08.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/09.jpg" thumbURL="../2112/resize_09.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/10.jpg" thumbURL="../2112/resize_10.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/11.jpg" thumbURL="../2112/resize_11.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/12.jpg" thumbURL="../2112/resize_12.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/13.jpg" thumbURL="../2112/resize_13.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/14.jpg" thumbURL="../2112/resize_14.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/15.jpg" thumbURL="../2112/resize_15.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/16.jpg" thumbURL="../2112/resize_16.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/17.jpg" thumbURL="../2112/resize_17.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/18.jpg" thumbURL="../2112/resize_18.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/19.jpg" thumbURL="../2112/resize_19.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/20.jpg" thumbURL="../2112/resize_20.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/21.jpg" thumbURL="../2112/resize_21.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/22.jpg" thumbURL="../2112/resize_22.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/23.jpg" thumbURL="../2112/resize_23.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/24.jpg" thumbURL="../2112/resize_24.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/25.jpg" thumbURL="../2112/resize_25.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/26.jpg" thumbURL="../2112/resize_26.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/27.jpg" thumbURL="../2112/resize_27.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/28.jpg" thumbURL="../2112/resize_28.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/29.jpg" thumbURL="../2112/resize_29.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/30.jpg" thumbURL="../2112/resize_30.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/31.jpg" thumbURL="../2112/resize_31.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/32.jpg" thumbURL="../2112/resize_32.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/33.jpg" thumbURL="../2112/resize_33.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/34.jpg" thumbURL="../2112/resize_34.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/35.jpg" thumbURL="../2112/resize_35.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/36.jpg" thumbURL="../2112/resize_36.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/37.jpg" thumbURL="../2112/resize_37.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/38.jpg" thumbURL="../2112/resize_38.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/39.jpg" thumbURL="../2112/resize_39.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/40.jpg" thumbURL="../2112/resize_40.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/41.jpg" thumbURL="../2112/resize_41.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/42.jpg" thumbURL="../2112/resize_42.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/43.jpg" thumbURL="../2112/resize_43.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/44.jpg" thumbURL="../2112/resize_44.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/45.jpg" thumbURL="../2112/resize_45.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/46.jpg" thumbURL="../2112/resize_46.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/47.jpg" thumbURL="../2112/resize_47.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/48.jpg" thumbURL="../2112/resize_48.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+<image imageURL="../2112/49.jpg" thumbURL="../2112/resize_49.jpg" linkURL="" linkTarget="" ><caption></caption></image>
+
+
+</simpleviewergallery>

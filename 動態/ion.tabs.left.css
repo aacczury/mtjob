@@ -1,0 +1,101 @@
+
+	.ionTabs {
+		position: relative;
+	}
+		.ionTabs__head {
+			position: relative; display: block;
+			list-style-type: none;
+			margin: 0; padding: 0;
+			margin-right: -5px;
+			z-index: 2;
+		}
+		.ionTabs__head:before, .ionTabs__head:after {content: ""; display: table;}
+		.ionTabs__head:after {clear: both;}
+		.ionTabs__head {
+			vertical-align:top;
+			display:inline-block;
+			*display: inline;
+			zoom: 1;
+		}
+
+			.ionTabs__tab {
+				position: relative;
+				display: block;
+				list-style-type: none;
+				background: none;
+				margin: 0; padding: 0;
+				cursor: pointer;
+			}
+				.ionTabs__tab.ionTabs__tab_state_active {
+					cursor: default;
+				}
+
+		.ionTabs__body {
+			position: relative;
+			display:inline-block;
+			*display: inline;
+			z-index: 1;
+		}
+
+		.ionTabs__item {
+			position: relative;
+			display: none;
+		}
+			.ionTabs__item.ionTabs__item_state_active {
+				display: block;
+			}
+
+		.ionTabs__preloader {
+			position: relative;
+		}
+		.ionTabs {
+		margin: 0 0 30px;
+	}
+    .ionTabs__head {
+        /*border-right: 1px solid #cecece;*/
+		border-right: none;
+    }
+
+    .ionTabs__tab {
+        font-size: 11px; line-height: 13px;
+        background: #ededed;
+        border: 1px solid #cecece;
+        border-right: none;
+        padding: 11px 25px 11px 22px;
+        margin-left: 4px;
+        color: #484848;
+        margin-top: 10px;
+        text-align: center;
+        min-width: 50px;
+    }
+        .ionTabs__tab:hover {
+            background: #e5e5e5;
+        }
+        .ionTabs__tab.ionTabs__tab_state_active {
+            top: 1px;
+            margin-left: 1px;
+            padding: 11px 25px 11px 25px;
+            background: #fff;
+            color: #d71410;
+            border-left-color: #d71410;
+            border-right: 1px solid #fff;
+        }
+
+    .ionTabs__body {
+        background: #fff;
+        border: 1px solid #cecece;
+        /*border-left: none;*/
+    }
+
+    .ionTabs__item {
+        padding: 15px 26px;
+    }
+	
+    .ionTabs__tab{
+        *float:left;
+		width:55px;
+	}
+	.ionTabs__body{
+        *float:left;
+		width:615px;
+	}
